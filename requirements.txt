@@ -2,4 +2,4 @@ math
 pandas
 matplotlib
 numpy
-ipywidgets 
+ipywidgets
